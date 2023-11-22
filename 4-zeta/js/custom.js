@@ -220,7 +220,7 @@ $(document).ready(function()
 		    			strokeWidth: 0.5,
 						easing: 'easeInOut',
 						duration: 1400,
-						color: '#ff4200',
+						color: '#011f4b',
 						trailColor: 'rgba(255,255,255,1)',
 						trailWidth: 1,
 						svgStyle: {display: 'block', width: '100%', height: '100%'},

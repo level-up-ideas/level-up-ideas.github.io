@@ -190,7 +190,7 @@ $(document).ready(function()
 		    			strokeWidth: 0.5,
 						easing: 'easeInOut',
 						duration: 1400,
-						color: '#ff4200',
+						color: '#011f4b',
 						trailColor: '#f0f0f0',
 						trailWidth: 1,
 						svgStyle: {display: 'block', width: '100%', height: '100%'},
@@ -300,8 +300,8 @@ $(document).ready(function()
 						{
 							autoStyleContainer: false
 						},
-						from:{ color: '#ff4200', width: 2 },
-						to: { color: '#ff4200', width: 2 },
+						from:{ color: '#011f4b', width: 2 },
+						to: { color: '#011f4b', width: 2 },
 						// Set default step function for all animate calls
 						step: function(state, circle)
 						{
