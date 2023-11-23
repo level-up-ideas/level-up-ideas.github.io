@@ -639,11 +639,11 @@ section
 .fs_social li i
 {
 	font-size: 13px;
-	color: rgba(255,66,0,0.6);
+	color: #03396c;
 }
 .fs_social li:hover i
 {
-	color: rgba(255,66,0,1);
+	color: #005b96;
 }
 
 /*********************************
